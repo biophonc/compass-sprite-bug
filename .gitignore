@@ -1,0 +1,22 @@
+#
+# Meta Data
+#
+.DS_Store
+.DS_Store?
+
+#
+# Thumbnails
+#
+._*
+
+#
+# Files that might appear on external disk
+#
+.Spotlight-V100
+.Trashes
+
+#
+# SASS/Compass
+#
+.sass-cache
+compass_app_log.txt
